@@ -1,0 +1,5 @@
+*.exe
+*.html
+*.csv
+*.xlsx
+.mypy_cache
